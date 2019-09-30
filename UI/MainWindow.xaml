@@ -50,6 +50,5 @@
                 <Grid x:Name="DP" Margin="5"/>
             </Border>
         </Grid>
-        <ig:XamBusyIndicator Content="XamBusyIndicator" HorizontalAlignment="Center" VerticalAlignment="Center"/>
     </Grid>
 </Window>
