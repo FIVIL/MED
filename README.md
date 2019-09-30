@@ -1,5 +1,6 @@
-# Minimum Edit Distance     
-![Minimum Edit Distance ](MED.jpg?raw=true "Minimum Edit Distance")
+# Minimum Edit Distance  
+   
+![Minimum Edit Distance](MED.JPG?raw=true "Minimum Edit Distance")
 
 ## Description
 
